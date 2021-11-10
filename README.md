@@ -4,6 +4,7 @@
 
 **Keys:**
 * `W | S  - Move forward and backwards`
+* `, | .  - Change quality`
 * `Tab.   - Activate Mouse`
 * `Q      - Main Menu`
 * `A | D  - Strafe left/right`
