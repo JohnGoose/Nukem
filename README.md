@@ -2,6 +2,13 @@
 
 3D game engine made with C. This game is computed on the CPU only.
 
+**Keys:**
+* `W | S  - Move forward and backwards`
+* `Tab.   - Activate Mouse`
+* `Q      - Deselect all`
+* `A | D  - Strafe left/right`
+* `ESC    - Quit`
+
 Here are some images of the map I made in Blender
 
 #
@@ -16,8 +23,8 @@ Here are some images of the map I made in Blender
 #
 
 ```
-$> git clone https://github.com/lsjoberg98/Doom.git
-$> cd Doom 
+$> git clone https://github.com/JohnGoose/Nukem.git
+$> cd Nukem
 $> make -C libft && make
 $> ./dnukem
 ```
