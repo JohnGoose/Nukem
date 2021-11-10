@@ -5,7 +5,7 @@
 **Keys:**
 * `W | S  - Move forward and backwards`
 * `Tab.   - Activate Mouse`
-* `Q      - Deselect all`
+* `Q      - Main Menu`
 * `A | D  - Strafe left/right`
 * `ESC    - Quit`
 
